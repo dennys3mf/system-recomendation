@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Elige un Usuario</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/styles.css') }}">
+</head>
+<body>
+    <div class="container mt-5">
+        <h1>Elige un Usuario</h1>
+        <div class="row mt-4">
+            <div class="col-md-4">
+                <a href="/usuario/A" class="btn btn-primary btn-block">Usuario A</a>
+            </div>
+            <div class="col-md-4">
+                <a href="/usuario/B" class="btn btn-primary btn-block">Usuario B</a>
+            </div>
+            <div class="col-md-4">
+                <a href="/usuario/C" class="btn btn-primary btn-block">Usuario C</a>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

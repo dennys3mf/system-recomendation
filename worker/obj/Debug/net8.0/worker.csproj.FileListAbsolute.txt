@@ -1,0 +1,72 @@
+/home/jesus811/Escritorio/CICLO6/NET 8/08-LAB/worker/bin/Debug/net8.0/appsettings.Development.json
+/home/jesus811/Escritorio/CICLO6/NET 8/08-LAB/worker/bin/Debug/net8.0/appsettings.json
+/home/jesus811/Escritorio/CICLO6/NET 8/08-LAB/worker/bin/Debug/net8.0/worker
+/home/jesus811/Escritorio/CICLO6/NET 8/08-LAB/worker/bin/Debug/net8.0/worker.deps.json
+/home/jesus811/Escritorio/CICLO6/NET 8/08-LAB/worker/bin/Debug/net8.0/worker.runtimeconfig.json
+/home/jesus811/Escritorio/CICLO6/NET 8/08-LAB/worker/bin/Debug/net8.0/worker.dll
+/home/jesus811/Escritorio/CICLO6/NET 8/08-LAB/worker/bin/Debug/net8.0/worker.pdb
+/home/jesus811/Escritorio/CICLO6/NET 8/08-LAB/worker/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
+/home/jesus811/Escritorio/CICLO6/NET 8/08-LAB/worker/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/home/jesus811/Escritorio/CICLO6/NET 8/08-LAB/worker/bin/Debug/net8.0/Pipelines.Sockets.Unofficial.dll
+/home/jesus811/Escritorio/CICLO6/NET 8/08-LAB/worker/bin/Debug/net8.0/StackExchange.Redis.dll
+/home/jesus811/Escritorio/CICLO6/NET 8/08-LAB/worker/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/jesus811/Escritorio/CICLO6/NET 8/08-LAB/worker/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/jesus811/Escritorio/CICLO6/NET 8/08-LAB/worker/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/jesus811/Escritorio/CICLO6/NET 8/08-LAB/worker/obj/Debug/net8.0/worker.csproj.AssemblyReference.cache
+/home/jesus811/Escritorio/CICLO6/NET 8/08-LAB/worker/obj/Debug/net8.0/worker.GeneratedMSBuildEditorConfig.editorconfig
+/home/jesus811/Escritorio/CICLO6/NET 8/08-LAB/worker/obj/Debug/net8.0/worker.AssemblyInfoInputs.cache
+/home/jesus811/Escritorio/CICLO6/NET 8/08-LAB/worker/obj/Debug/net8.0/worker.AssemblyInfo.cs
+/home/jesus811/Escritorio/CICLO6/NET 8/08-LAB/worker/obj/Debug/net8.0/worker.csproj.CoreCompileInputs.cache
+/home/jesus811/Escritorio/CICLO6/NET 8/08-LAB/worker/obj/Debug/net8.0/worker.MvcApplicationPartsAssemblyInfo.cs
+/home/jesus811/Escritorio/CICLO6/NET 8/08-LAB/worker/obj/Debug/net8.0/worker.MvcApplicationPartsAssemblyInfo.cache
+/home/jesus811/Escritorio/CICLO6/NET 8/08-LAB/worker/obj/Debug/net8.0/staticwebassets.build.json
+/home/jesus811/Escritorio/CICLO6/NET 8/08-LAB/worker/obj/Debug/net8.0/staticwebassets.development.json
+/home/jesus811/Escritorio/CICLO6/NET 8/08-LAB/worker/obj/Debug/net8.0/staticwebassets/msbuild.worker.Microsoft.AspNetCore.StaticWebAssets.props
+/home/jesus811/Escritorio/CICLO6/NET 8/08-LAB/worker/obj/Debug/net8.0/staticwebassets/msbuild.build.worker.props
+/home/jesus811/Escritorio/CICLO6/NET 8/08-LAB/worker/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.worker.props
+/home/jesus811/Escritorio/CICLO6/NET 8/08-LAB/worker/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.worker.props
+/home/jesus811/Escritorio/CICLO6/NET 8/08-LAB/worker/obj/Debug/net8.0/staticwebassets.pack.json
+/home/jesus811/Escritorio/CICLO6/NET 8/08-LAB/worker/obj/Debug/net8.0/scopedcss/bundle/worker.styles.css
+/home/jesus811/Escritorio/CICLO6/NET 8/08-LAB/worker/obj/Debug/net8.0/worker.csproj.CopyComplete
+/home/jesus811/Escritorio/CICLO6/NET 8/08-LAB/worker/obj/Debug/net8.0/worker.dll
+/home/jesus811/Escritorio/CICLO6/NET 8/08-LAB/worker/obj/Debug/net8.0/refint/worker.dll
+/home/jesus811/Escritorio/CICLO6/NET 8/08-LAB/worker/obj/Debug/net8.0/worker.pdb
+/home/jesus811/Escritorio/CICLO6/NET 8/08-LAB/worker/obj/Debug/net8.0/worker.genruntimeconfig.cache
+/home/jesus811/Escritorio/CICLO6/NET 8/08-LAB/worker/obj/Debug/net8.0/ref/worker.dll
+/home/jesus811/Escritorio/CICLO6/NET 8/08-LAB/worker/bin/Debug/net8.0/MySqlConnector.dll
+D:\sisgrupal\worker\bin\Debug\net8.0\appsettings.Development.json
+D:\sisgrupal\worker\bin\Debug\net8.0\appsettings.json
+D:\sisgrupal\worker\bin\Debug\net8.0\worker.exe
+D:\sisgrupal\worker\bin\Debug\net8.0\worker.deps.json
+D:\sisgrupal\worker\bin\Debug\net8.0\worker.runtimeconfig.json
+D:\sisgrupal\worker\bin\Debug\net8.0\worker.dll
+D:\sisgrupal\worker\bin\Debug\net8.0\worker.pdb
+D:\sisgrupal\worker\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+D:\sisgrupal\worker\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\sisgrupal\worker\bin\Debug\net8.0\MySqlConnector.dll
+D:\sisgrupal\worker\bin\Debug\net8.0\Pipelines.Sockets.Unofficial.dll
+D:\sisgrupal\worker\bin\Debug\net8.0\StackExchange.Redis.dll
+D:\sisgrupal\worker\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\sisgrupal\worker\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\sisgrupal\worker\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\sisgrupal\worker\obj\Debug\net8.0\worker.csproj.AssemblyReference.cache
+D:\sisgrupal\worker\obj\Debug\net8.0\worker.GeneratedMSBuildEditorConfig.editorconfig
+D:\sisgrupal\worker\obj\Debug\net8.0\worker.AssemblyInfoInputs.cache
+D:\sisgrupal\worker\obj\Debug\net8.0\worker.AssemblyInfo.cs
+D:\sisgrupal\worker\obj\Debug\net8.0\worker.csproj.CoreCompileInputs.cache
+D:\sisgrupal\worker\obj\Debug\net8.0\worker.MvcApplicationPartsAssemblyInfo.cs
+D:\sisgrupal\worker\obj\Debug\net8.0\worker.MvcApplicationPartsAssemblyInfo.cache
+D:\sisgrupal\worker\obj\Debug\net8.0\staticwebassets.build.json
+D:\sisgrupal\worker\obj\Debug\net8.0\staticwebassets.development.json
+D:\sisgrupal\worker\obj\Debug\net8.0\staticwebassets\msbuild.worker.Microsoft.AspNetCore.StaticWebAssets.props
+D:\sisgrupal\worker\obj\Debug\net8.0\staticwebassets\msbuild.build.worker.props
+D:\sisgrupal\worker\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.worker.props
+D:\sisgrupal\worker\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.worker.props
+D:\sisgrupal\worker\obj\Debug\net8.0\staticwebassets.pack.json
+D:\sisgrupal\worker\obj\Debug\net8.0\scopedcss\bundle\worker.styles.css
+D:\sisgrupal\worker\obj\Debug\net8.0\worker.csproj.Up2Date
+D:\sisgrupal\worker\obj\Debug\net8.0\worker.dll
+D:\sisgrupal\worker\obj\Debug\net8.0\refint\worker.dll
+D:\sisgrupal\worker\obj\Debug\net8.0\worker.pdb
+D:\sisgrupal\worker\obj\Debug\net8.0\worker.genruntimeconfig.cache
+D:\sisgrupal\worker\obj\Debug\net8.0\ref\worker.dll

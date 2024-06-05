@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <title>Recomendaciones de Películas</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+</head>
+<body>
+    <div class="container mt-5">
+        <h2>Recomendaciones para el Usuario {{ user_id }}</h2>
+        <ul class="list-group">
+            {% for movie in recommended_movies %}
+                <li class="list-group-item">{{ movie }}</li>
+            {% endfor %}
+        </ul>
+        <a href="{{ url_for('index') }}" class="btn btn-secondary mt-3">Volver al Inicio</a>
+    </div>
+</body>
+</html>
